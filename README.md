@@ -4,7 +4,7 @@ Hi 👋 I'm Devrim
 Jr. Front End Developer
 -----------------------
 
-I have been learning to code for 6 months. I started with HTML - CSS my development adventures.
+I have been learning to code since 04/2022. I started with HTML - CSS my development adventures.
 
 * 🌍  I'm based in Alanya
 * ✉️  You can contact me at [devrimdivrik@gmail.com](mailto:devrimdivrik@gmail.com)
