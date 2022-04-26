@@ -1,4 +1,4 @@
-Hi 👋 My name is Devrim
+Hi 👋 I'm Devrim
 ==============================
 
 Jr. Front End Developer
