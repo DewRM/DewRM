@@ -10,7 +10,7 @@ I have been learning to code for 6 months. I started with HTML - CSS my developm
 * ✉️  You can contact me at [devrimdivrik@gmail.com](mailto:devrimdivrik@gmail.com)
 * 🧠  I'm learning HTML - CSS - Bootstrap
 * 🥅 2022 Goals: Learn Javascript
-* ⚡  Fun fact: I ❤️ play soccer, swimming, cycling and play video Games
+* ⚡  Fun fact: I ❤️ play soccer, swimming, cycling and play video games
 
 ### Skills
 
