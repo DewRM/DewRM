@@ -1,7 +1,7 @@
 Hi 👋 I'm Devrim
 ==============================
 
-Jr. Front End Developer
+I would like to be a Junior Front End Developer
 -----------------------
 
 I have been learning to code since 04/2022. I started with HTML - CSS my development adventures.
