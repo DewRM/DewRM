@@ -5,15 +5,15 @@
 <img align="center" width="500" height="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 
-I would like to be a Junior Front End Developer
+I would like to be a Junior <strong> Front End Developer </strong> 
 -----------------------
 
-I have been learning to code since 04/2022. I started with HTML - CSS my development adventures.
+I have been learning to code since 04/2022. I started with <strong> HTML - CSS </strong>  my development adventures.
 <br><br><br>
   <p align="center">🌍  I'm based in Alanya </p>
   <p align="center">✉️  You can contact me at [devrimdivrik@gmail.com](mailto:devrimdivrik@gmail.com) </p>
-  <p align="center">🧠  I'm learning HTML - CSS - Bootstrap </p>
-  <p align="center">🥅 2022 Goals: Learn Javascript </p>
+  <p align="center">🧠  I'm learning <strong> HTML - CSS - Bootstrap </strong>  </p> 
+  <p align="center">🥅 2022 Goals: Learn <strong> Javascript </strong> </p>
   <p align="center">⚡  Fun fact: I ❤️ play soccer, swimming, cycling and play video games </p>
 <br><br>  
   
