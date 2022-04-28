@@ -11,14 +11,12 @@ I would like to be a Junior Front End Developer
 I have been learning to code since 04/2022. I started with HTML - CSS my development adventures.
 
   <p align="center">🌍  I'm based in Alanya </p>
-  <p align="center">🌍  I'm based in Alanya </p>
+  <p align="center">✉️  You can contact me at [devrimdivrik@gmail.com](mailto:devrimdivrik@gmail.com) </p>
+  <p align="center">🧠  I'm learning HTML - CSS - Bootstrap </p>
+  <p align="center">🥅 2022 Goals: Learn Javascript </p>
+  <p align="center">⚡  Fun fact: I ❤️ play soccer, swimming, cycling and play video games </p>
   
-  <li> ✉️  You can contact me at [devrimdivrik@gmail.com](mailto:devrimdivrik@gmail.com) </li>
-  <li> 🧠  I'm learning HTML - CSS - Bootstrap </li>
-  <li> 🥅 2022 Goals: Learn Javascript </li>
-  <li> ⚡  Fun fact: I ❤️ play soccer, swimming, cycling and play video games </li>
-
-
+  
 ### Skills
 
 <p align="center">
