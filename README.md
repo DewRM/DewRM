@@ -13,14 +13,10 @@ I have been learning to code since 04/2022. I started with HTML - CSS my develop
 <ul>
   <li>🌍  I'm based in Alanya</li>
   <li> ✉️  You can contact me at [devrimdivrik@gmail.com](mailto:devrimdivrik@gmail.com) </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+  <li> 🧠  I'm learning HTML - CSS - Bootstrap </li>
+  <li> 🥅 2022 Goals: Learn Javascript </li>
+  <li> ⚡  Fun fact: I ❤️ play soccer, swimming, cycling and play video games </li>
 
-✉️  You can contact me at [devrimdivrik@gmail.com](mailto:devrimdivrik@gmail.com)
-🧠  I'm learning HTML - CSS - Bootstrap
-🥅 2022 Goals: Learn Javascript
-⚡  Fun fact: I ❤️ play soccer, swimming, cycling and play video games
 
 ### Skills
 
