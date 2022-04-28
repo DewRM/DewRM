@@ -12,10 +12,6 @@ I have been learning to code since 04/2022. I started with <strong> HTML - CSS <
 <br><br><br>
   <p align="center">🌍  I'm based in Alanya </p>
   <p align="center">✉️  You can contact me at <a href="mailto:devrimdivrik@gmail.com">E-mail</a> and <a href="https://www.linkedin.com/in/devrimdivrik/" target="_blank"> Linkedin </a></p>
-    <p align="center">✉️  You can contact me at <a href="mailto:devrimdivrik@gmail.com">E-mail</a> and  <a href="https://linkedin.com/in/kaantan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaantan" height="30" width="40" /></a></p>
-  
- 
-  
   <p align="center">🧠  I'm learning <strong> HTML - CSS - Bootstrap </strong>  </p> 
   <p align="center">🥅 2022 Goals: Learn <strong> Javascript </strong> </p>
   <p align="center">⚡  Fun fact: I ❤️ play soccer, swimming, cycling and play video games </p>
