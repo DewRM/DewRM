@@ -10,7 +10,7 @@
 I would like to be a Junior <strong> Front End Developer </strong> 
 -----------------------
 
-I have been learning to code since 04/2022. I started with <strong> HTML - CSS - Bootstrap </strong>  my development adventures.
+I have been learning to code since July 2022. I started with <strong> HTML - CSS - Bootstrap </strong>  my development adventures.
 <br><br><br>
   <p align="center">🌍  I'm based in Alanya </p>
   <p align="center">✉️  You can contact me at <a href="mailto:devrimdivrik@gmail.com">E-mail</a> </p>
